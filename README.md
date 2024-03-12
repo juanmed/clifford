@@ -39,6 +39,14 @@ pip3 install clifford
 ```
 [Detailed instructions](https://clifford.readthedocs.io/en/latest/installation.html)
 
+Currently only supports [specific versions](https://github.com/pygae/clifford/issues/415#issuecomment-936352324):
+```
+numpy==1.21.2
+numba==0.53.1
+python 3.7.11
+jupyter notebook: 6.4.3
+```
+
 Quickstart
 ----------
 
